@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Что-то на русском
+* Еще что-то на русском
 
 
