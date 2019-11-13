@@ -1,5 +1,7 @@
 ========
-Текст на русском
+Usage
 ========
 
-Текст на русском
+To use this template, simply update it::
+
+	import read-the-docs-template
